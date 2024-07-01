@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manjunath-hanmantgad
+
 - 👀 I’m working as machine learning engineer.
 - 🌱 I’m working on applying AI Engineering in the areas/domain of Healthcare , Pharmaceuticals, aerspace , telecommunication, banking & finance.
 - 😎 I'm studying graph neural networks and Quantum machine learning (Qiskit & cirqa)
