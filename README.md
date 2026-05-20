@@ -1,6 +1,6 @@
 <div align="center">
 
-# Manjunath Hanmantgad
+# Manjunath
 
 ### AI Engineer — Production LLM Systems · Multi-Agent Workflows · Azure
 
